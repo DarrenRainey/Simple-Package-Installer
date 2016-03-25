@@ -1,0 +1,2 @@
+# This file is used to import other information and make it easier to manage and update in the future for example if example.com has repo1.example.com and repo2.example.com they can be put into one file called repos.example.com and then add include repos.example.com to this file 
+include base
