@@ -1,3 +1,6 @@
+# [Dead Project - This project is no longer being maintained or updated  for the foreseeable future]
+
+
 # Simple-Package-Installer
 A easy to use and setup alternative to apt-get
 
