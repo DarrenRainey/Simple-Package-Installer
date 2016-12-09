@@ -1,4 +1,5 @@
-# [Dead Project - This project is no longer being maintained or updated  for the foreseeable future]
+# [Dead Project] 
+This project is no longer being maintained or updated  for the foreseeable future
 
 
 # Simple-Package-Installer
